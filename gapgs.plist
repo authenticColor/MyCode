@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Gapgs</string>
+	<string>gapgs</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
@@ -19,7 +19,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
-	<string>Gapgs</string>
+	<string>gapgs</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.max-screw.com/gapgs/gapgs.ipa</string>
+					<string>http://122.225.252.130/ipa/gapgs.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -51,7 +51,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.max-screw.com/gapgs/icon.png</string>
+					<string>http://122.225.252.130/ipa/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -59,7 +59,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.max-screw.com/gapgs/icon@2x.png</string>
+					<string>http://122.225.252.130/ipa/icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
