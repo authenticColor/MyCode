@@ -13,7 +13,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>孔明</string>
+	<string>梅山大脚板</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
@@ -25,11 +25,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2.1</string>
+	<string>1.0.0</string>
 	<key>CFBundleSignature</key>
-	<string>孔明</string>
+	<string>梅山大脚板</string>
 	<key>CFBundleVersion</key>
-	<string>2.2.1</string>
+	<string>1.0.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,7 +51,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://test.app.joojtech.com/koom/iospt/v2.2.1/koom.ipa</string>
+					<string>http://http://www.max-screw.com/Amazing/amazing.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -59,7 +59,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://test.app.joojtech.com/koom/iospt/v2.2.1/koom_small.png</string>
+					<string>http://www.max-screw.com/Amazing/amazing.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -67,7 +67,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://test.app.joojtech.com/koom/iospt/v2.2.1/koom.png</string>
+					<string>http://www.max-screw.com/Amazing/amazing.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -75,13 +75,13 @@
 				<key>bundle-identifier</key>
 				<string>com.jooj.doctorTest</string>
 				<key>bundle-version</key>
-				<string>2.2.1</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>jooj</string>
 				<key>title</key>
-				<string>孔明</string>
+				<string>梅山大脚板</string>
 			</dict>
 		</dict>
 	</array>
