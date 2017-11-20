@@ -51,7 +51,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.max-screw.com/Amazing/download/amazing.ipa</string>
+					<string>http://djb.msd.gov.cn/Amazing/download/amazing.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -59,7 +59,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.max-screw.com/Amazing/download/amazing.png</string>
+					<string>http://djb.msd.gov.cn/Amazing/download/amazing.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -67,7 +67,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.max-screw.com/Amazing/download/amazing.png</string>
+					<string>http://djb.msd.gov.cn/Amazing/download/amazing.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
