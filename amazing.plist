@@ -13,7 +13,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>梅山大脚板</string>
+	<string>梅山重大项目信息库</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
@@ -27,7 +27,7 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>
 	<key>CFBundleSignature</key>
-	<string>梅山大脚板</string>
+	<string>梅山重大项目信息库</string>
 	<key>CFBundleVersion</key>
 	<string>1.0.0</string>
 	<key>LSRequiresIPhoneOS</key>
@@ -81,7 +81,7 @@
 				<key>subtitle</key>
 				<string>jooj</string>
 				<key>title</key>
-				<string>梅山大脚板</string>
+				<string>梅山重大项目信息库</string>
 			</dict>
 		</dict>
 	</array>
